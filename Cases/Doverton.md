@@ -1,3 +1,0 @@
-# Doverton Case
-
-## Case Facts
