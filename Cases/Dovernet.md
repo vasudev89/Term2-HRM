@@ -119,7 +119,7 @@
 	- Gwen Davidson - C rating in Stack Rating
 
 #### Trent Raynor
-- 2011 - Manager of Aadapted Tech Group
+- 2011 - Manager of Adapted Tech Group
 - 120 Subordinates
 - Joined Consumer Innovations in 2008 - Sales Job
 - Suggested a new system for generating online ad revenue
