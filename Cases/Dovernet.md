@@ -75,8 +75,8 @@
 	- Numerous Teams - Size Range - 4 to 35
 
 ### Performance Management
-##### Param Venkatesan's belief: 
-	#### "Performance pressure could generate creative tension to stimulate creativity, innovation, and entrepreneurship"
+#### Param Venkatesan's belief: 
+	 __"Performance pressure could generate creative tension to stimulate creativity, innovation, and entrepreneurship"__
 ##### Quarterly Reviews 
 	- Conducted Every Quarter
 	- Supervisor to review direct reports
