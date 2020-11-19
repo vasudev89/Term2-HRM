@@ -75,5 +75,39 @@
 	- Numerous Teams - Size Range - 4 to 35
 
 ### Performance Management
-- Quarterly Reviews
-- Stack Ranking
+##### Param Venkatesan's belief: 
+	#### "Performance pressure could generate creative tension to stimulate creativity, innovation, and entrepreneurship"
+##### Quarterly Reviews 
+	- Conducted Every Quarter
+	- Supervisor to review direct reports
+	- 3 to 4 quantifiable metrics
+	- Subjective measures also used
+##### Stack Ranking
+	- Forced Distribution System
+	- Forcibly assign a rank to each employee
+	- Top 20% = A, Next 70% = B, Remaining = C
+	- Min 10 Emps needed for execution
+	- Applied horizontally to all emps at the same level
+	- Implications:
+		- A's
+			- Cash Rewards - upto 25% of Salary
+			- Stock Options vested over the a 3 year period - upto 50% of Salary
+		- C's
+			- Forfeit bonus and options grant
+			- Additionaly subjected to PIP - Given reasons by manager + remedial action provided
+			- Failure to comply could lead to termination
+			- 60% PIP Emps left the company
+##### Upward Feedback Surveys(UFS)
+	- Employee to rate supervisor by filling a survey
+	- At the end of each quarter
+	- Parameters:
+		- Professional and Technical Skills
+		- Interpersonal and Communication Skills
+		- Credibility and Integrity
+		- Teambuilding
+		- Leadership
+		- 5 Pt Likert Scale Used for each parameter
+	- Supervisor will receive an average of scores
+	- Supervisor's boss will also receive a copy
+	- Received all the way up to the CEO
+
