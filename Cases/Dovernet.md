@@ -113,3 +113,49 @@
 	- Supervisor's boss will also receive a copy
 	- Received all the way up to the CEO
 
+### Contentious Issues
+#### Decisions on:
+	- Trent Raynor - UFS Score's below standard
+	- Gwen Davidson - C rating in Stack Rating
+
+#### Trent Raynor
+- 2011 - Manager of Aadapted Tech Group
+- 120 Subordinates
+- Joined Consumer Innovations in 2008 - Sales Job
+- Suggested a new system for generating online ad revenue
+- Performed well in 1st 2 Quarters in UFS
+- Final Quarter UFS Scores had fallen
+- PIP for Wagner - a colleage from the Sales Job __Reason for Bad UFS__
+- Raynor younger than Wagner
+
+##### Wagner
+- Late for Work
+- Leaving Early
+- Disengaged
+- Affecting Team - hurting Morale
+- Some were thinking of shifting base
+- Raynor's predecessor took no action leading to 4 employees leaving
+
+Raynor didn't want a similar fate
+- Confronted Wagner
+	 - Wagner surprised
+	 - Agreed to improve
+- 2 weeks later -> No improvement
+	- C Rating
+- In November Wagner gathered his team, apologized, and promised to improve
+- Raynor was appreciative via an email
+
+
+##### Jan Review by Raynor
+- Quarterly Review
+- Wagner met 2 out of 3 - A milestone deadline
+- Stack Ranking Not Necessary - Raynor had only 4 Reportees
+- Yet he gave a rating of C
+- Wagner not happy
+	- Implication: He will make his views clear in the UFS Evaluation
+
+#### Gwen Davidson
+- Tom Goldstein had given Gwen Davidson a C Rating in Stack Rating
+- Chung knew that she had suffered a personal loss
+- Decision: *Continue with C Rating* or *Upgrade to B*
+
