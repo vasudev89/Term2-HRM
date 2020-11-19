@@ -198,3 +198,17 @@ Raynor didn't want a similar fate
 - Difficult to answer the questions on Teambuilding and Leadership
 - One answer obvious - freedom to operate
 - Other 6 questions problematic
+
+# Questions to Address
+
+### 1. What is the case about? Please give a general flow of events in the case.
+
+- Described above
+
+### 2. What are the pros and cons of Dovernet Performance management system?
+
+### 3. What rating would you give to Raynor, Davidson and Albright (A, B, or C)?
+
+### 4. Based on your answer how would you ensure a culture that both demonstrates collegially and promotes stretch performance.
+
+### 5. Critically examine and compare your formal organisation PMS with that of Dovernet. 
