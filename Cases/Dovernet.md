@@ -146,7 +146,7 @@ Raynor didn't want a similar fate
 - Raynor was appreciative via an email
 
 
-##### Jan Review by Raynor
+##### January Review by Raynor
 - Quarterly Review
 - Wagner met 2 out of 3 - A milestone deadline
 - Stack Ranking Not Necessary - Raynor had only 4 Reportees
@@ -159,3 +159,34 @@ Raynor didn't want a similar fate
 - Chung knew that she had suffered a personal loss
 - Decision: *Continue with C Rating* or *Upgrade to B*
 
+- Joined in 2011 as TL
+- Problems:
+	- Formal Demeanour
+	- Rigid Work Habits
+	- Tendency to Micro Manage
+	- __Against the creative process of her team of 13 reports__
+	- Team Perspective: Incompatible with Team Ethos and Threat to Success
+
+- Skip meeting of Team with Goldstein
+	- She's Emotionally volatile
+	- Lacked Passion for Work
+
+##### Davidson's Confrontation with Goldstein
+- Goldstein:
+	- Justified:
+		- Product Launch Delay
+		- Several Areas where she fell short of Expectations
+		- Aware of her personal circumstances
+		- Personal Feelings or sympathies cannot influence assessment
+		- If he moved her out of a C rating, someone else would have to fill in
+
+#### Mark Albright(MA) - Head of Security Solutions Group
+- Ex-military
+- Headed Security Solutions Group
+- Demanding and No nonsense kind
+- Consistent 'A' performer
+
+#### Colin Kerr
+- Sydney Office
+- Had to submit the UFS on Mark Albright - His boss
+- MA expected 20% revenue growth
