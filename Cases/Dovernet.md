@@ -173,7 +173,7 @@ Raynor didn't want a similar fate
 
 ##### Davidson's Confrontation with Goldstein
 - Goldstein:
-	- Justified:
+	- Justification for low rating:
 		- Product Launch Delay
 		- Several Areas where she fell short of Expectations
 		- Aware of her personal circumstances
@@ -181,12 +181,20 @@ Raynor didn't want a similar fate
 		- If he moved her out of a C rating, someone else would have to fill in
 
 #### Mark Albright(MA) - Head of Security Solutions Group
+- Sydney Office
 - Ex-military
 - Headed Security Solutions Group
 - Demanding and No nonsense kind
 - Consistent 'A' performer
+- Strong Professional and Technical Skills
+- Good Communicator
+- Made his expectations known
 
-#### Colin Kerr
-- Sydney Office
+##### Colin Kerr
 - Had to submit the UFS on Mark Albright - His boss
-- MA expected 20% revenue growth
+- Had only scored MA less than 5 on *Receptive to suggestions and feedback*
+- Difficult to answer the questions on Teambuilding and Leadership
+- One answer obvious - freedom to operate
+- Other 6 questions problematic
+- MA expected 20% revenue growth from him
+- No use arguing with MA
