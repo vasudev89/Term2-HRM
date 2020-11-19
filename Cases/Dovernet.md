@@ -32,3 +32,21 @@
 		- Dovernet's CEO - Param Venkatesan - Also functions on similar Lines
 
 ### Dovernet
+- Founded: 2002 - British Columbia - Vancouver
+- Founder - Param Venkatesan
+	- Sold a Video Sharing Website for $13 million in 2000
+	- Founded Dovernet with $35 mill VC
+	- 2006
+		- IPO - Toronto and NASDAQ
+		- Paradox:
+			- Industry suffering in Recession
+			- Dovernet -> Rev Growth = 6% + Employee Growth = 30%
+	- 2012
+		- Niche player
+		- Expanding Geographically - NA, EU to SA, ASIA
+	- Strategy:
+		- Differentiation through Product Innovation
+		- Maintain reputation of being a cutting edge player
+		- Competition from - Alcaltel Lucent, Cisco, Juniper
+		- Balance __*State of the Art Technology*__ and __*Ease of Use*__
+		- Differentiation
