@@ -76,7 +76,7 @@
 
 ### Performance Management
 #### Param Venkatesan's belief: 
-	 - __"Performance pressure could generate creative tension to stimulate creativity, innovation, and entrepreneurship"__
+	 - *"Performance pressure could generate creative tension to stimulate creativity, innovation, and entrepreneurship"*
 ##### Quarterly Reviews 
 	- Conducted Every Quarter
 	- Supervisor to review direct reports
