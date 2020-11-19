@@ -113,12 +113,13 @@
 	- Supervisor's boss will also receive a copy
 	- Received all the way up to the CEO
 
-### Contentious Issues
+## Contentious Issues
 #### Decisions on:
 	- Trent Raynor - UFS Score's below standard
 	- Gwen Davidson - C rating in Stack Rating
+	- Mark Albright - UFS Rating to be given by Collin Kerr
 
-#### Trent Raynor
+## Trent Raynor
 - 2011 - Manager of Adapted Tech Group
 - 120 Subordinates
 - Joined Consumer Innovations in 2008 - Sales Job
@@ -154,7 +155,7 @@ Raynor didn't want a similar fate
 - Wagner not happy
 	- Implication: He will make his views clear in the UFS Evaluation
 
-#### Gwen Davidson
+## Gwen Davidson
 - Tom Goldstein had given Gwen Davidson a C Rating in Stack Rating
 - Chung knew that she had suffered a personal loss
 - Decision: *Continue with C Rating* or *Upgrade to B*
@@ -180,7 +181,7 @@ Raynor didn't want a similar fate
 		- Personal Feelings or sympathies cannot influence assessment
 		- If he moved her out of a C rating, someone else would have to fill in
 
-#### Mark Albright(MA) - Head of Security Solutions Group
+## Mark Albright(MA) - Head of Security Solutions Group
 - Sydney Office
 - Ex-military
 - Headed Security Solutions Group
@@ -207,7 +208,7 @@ Raynor didn't want a similar fate
 		- Supports and develops others
 		- Is personally committed to the organization
 
-# Questions to Address
+# Questions to Address:
 
 ### 1. What is the case about? Please give a general flow of events in the case.
 
