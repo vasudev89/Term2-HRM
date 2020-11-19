@@ -124,7 +124,7 @@
 - Joined Consumer Innovations in 2008 - Sales Job
 - Suggested a new system for generating online ad revenue
 - Performed well in 1st 2 Quarters in UFS
-- Final Quarter UFS Scores had fallen
+- Final Quarter UFS Scores had fallen on all parameters
 - PIP for Wagner - a colleage from the Sales Job __Reason for Bad UFS__
 - Raynor younger than Wagner
 
@@ -198,6 +198,14 @@ Raynor didn't want a similar fate
 - Difficult to answer the questions on Teambuilding and Leadership
 - One answer obvious - freedom to operate
 - Other 6 questions problematic
+	- Teambuilding
+		- Fosters a congenial but competitive culture
+		- Builds constructive Relationships
+		- Is responsive to employees concerns
+	- Leadership
+		- Recognizes and rewards excellence
+		- Supports and develops others
+		- Is personally committed to the organization
 
 # Questions to Address
 
