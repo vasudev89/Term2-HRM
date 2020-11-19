@@ -19,7 +19,7 @@
 	### "Companies treat talent as a commodity with severe consequences"
 
 ### Kristina Chung - Sr VP - Dovernet's Consumer Innovations
-- Thoughts after reading the article:
+- Thoughts after reading the article: __*Thought about Pincus - Zynga's Founder*__
 	#### Pincus
 		- Zynga's Founder
 		- HBS Graduate('93)
