@@ -193,10 +193,8 @@ Raynor didn't want a similar fate
 ##### Colin Kerr
 - MA expected 20% revenue growth from him
 - No use arguing with MA
-
 - Had to submit the UFS on Mark Albright - His boss
 - Had only scored MA less than 5 on *Receptive to suggestions and feedback*
-
 - Difficult to answer the questions on Teambuilding and Leadership
 - One answer obvious - freedom to operate
 - Other 6 questions problematic
