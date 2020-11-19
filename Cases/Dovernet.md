@@ -141,7 +141,7 @@ Raynor didn't want a similar fate
 	 - Wagner surprised
 	 - Agreed to improve
 - 2 weeks later -> No improvement
-	- C Rating
+	- Explained that it would lead to a C Rating
 - In November Wagner gathered his team, apologized, and promised to improve
 - Raynor was appreciative via an email
 
