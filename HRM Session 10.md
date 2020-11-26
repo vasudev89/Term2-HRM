@@ -64,5 +64,29 @@
 - What kind of a pblm do you see when you bring new people into the firm where old people are already there?
 	- Old People get frustrated leading to Turnover
 	- Mix of W2 Hoppers and IROCs
+	- Personal Experience: Ratan
+		- Tata Motors hiring better qualified staff
 - What is the future of Pathways?
-	- 
+
+# Prof Ajay Singh - 26/11/2020
+
+## Counselling
+	- 10% of the time Counsellor speaks
+	- Real Case:
+		- VP of a company
+		- Good with everyone and loved by all
+		- Pblm: 
+			- Reporting Officer: Gets agitated without reason
+			- Happens only with Boss
+			- Reason Unknown
+			- Sent to Counsellor: Candidate should be willing
+			- Visit:
+				- Ice Breaking
+				- Described Pblm
+				- Counsellor asked open ended questions
+				- After 30 mins: Nothing comes out
+				- Go to childhood
+				- Father was a pblm
+				- Stayed with his grandfather eventually
+				- Role of Counsellor:
+					- 
