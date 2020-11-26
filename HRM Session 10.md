@@ -25,4 +25,28 @@
 		- Competition offered better salary
 		- Arrow did not change the philosophy
 
-##  
+## Question: Whether the Sprouts Prgm faced Challenges?
+- W2 Hoppers(Oldies) vs Sprouts(IROCs)
+- Sprouts upgrade was significant
+
+## Question
+- Sprouts - Analyis:
+	- New Recruits Lacking Loyalty
+	- Lesser Productivity
+	- ESOP and other Initiatives
+	- Huge Initial Cost
+- Sprouts - Advantages:
+	- More Recruits
+	- Faster Work, Better Education
+	- Multiple Job Fit
+- Sprouts - Future:
+	- Continued with better training
+	- Involved Costs have to be optimized
+		- Restructuring the training Pgrm
+	- Recruits can be given more Field Training
+
+## Question: Explain the Recruitment and Training Strategies of Sprouts
+- Sprouts(IROCs)
+	- Inexperienced
+	- Trained on Sales and Marketing
+	- 
