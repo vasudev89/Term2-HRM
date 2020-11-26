@@ -49,4 +49,11 @@
 - Sprouts(IROCs)
 	- Inexperienced
 	- Trained on Sales and Marketing
-	- 
+- Recruitment Process:
+	- Hire Staff from College
+	- Tight interview process
+	- Competencies:
+		- Goal Oriented
+		- Leadership Skills
+		- People Skills
+		- Self Starters
