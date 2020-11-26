@@ -89,4 +89,6 @@
 				- Father was a pblm
 				- Stayed with his grandfather eventually
 				- Role of Counsellor:
-					- 
+					- Listen to the pblm
+					- Help you understand what options we have
+					- Give direction
