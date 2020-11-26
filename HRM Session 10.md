@@ -57,3 +57,5 @@
 		- Leadership Skills
 		- People Skills
 		- Self Starters
+
+<img src="https://github.com/vasudev89/Term2-HRM/blob/master/Sprouts%20New%20Program.PNG">
