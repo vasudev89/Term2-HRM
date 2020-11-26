@@ -59,3 +59,10 @@
 		- Self Starters
 
 <img src="https://github.com/vasudev89/Term2-HRM/blob/master/Sprouts%20New%20Program.PNG">
+
+## Discussion with Sir:
+- What kind of a pblm do you see when you bring new people into the firm where old people are already there?
+	- Old People get frustrated leading to Turnover
+	- Mix of W2 Hoppers and IROCs
+- What is the future of Pathways?
+	- 
