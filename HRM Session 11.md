@@ -46,9 +46,11 @@
 - Different emphasis on HR processes in different economies
 
 ### Orientations to Int Orgs
+- Varies from firm to firm
+- Country has an influence on ideology
 - Ethnocentric
 	- Ethnical Orientation
-	- If any company X goes anywhere in the world and tries to implement the management style of the parent country in the host country and fill strategic positions with personnel of parent country, then they are ethnocentric
+	- If any company X goes anywhere in the world and tries to implement the management style of the parent country in the host country and fill strategic positions with personnel of __parent__ country, then they are ethnocentric
 	- Parent country management style is more important
 	- Japan, Korea, Germany
 	- Pros:
@@ -64,6 +66,7 @@
 		- Adapt to local practices
 		- Tend to Polycentric
 - Polycentric
+	- If any company X goes anywhere in the world and tries to implement the management style of the parent country in the host country and fill strategic positions with personnel of __host__ country, then they are polycentric
 	- Hire best staff of host country for strategic roles
 	- US could be an example
 	- France could also be an example to some extent
