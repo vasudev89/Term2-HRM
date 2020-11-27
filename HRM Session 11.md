@@ -27,10 +27,20 @@
 	- Allocate
 	- Utilize
 - Types of Emps
-	- Host Country Nationals(HCNs)
+	- Host Country Nationals(HCNs):
+		- Indians in India are hosts
 	- Parent Country Nationals(PCNs)
+		- People coming from parent country: US or Japanese Citizens - Owners of the firm
 	- Third Country Nationals(TCNs)
+		- Hired staff from another country e.g. Australia, UK
 - Countries
 	- Host
 	- Home
 	- Other
+
+### IHRM and Domestic HRM
+- Most Functions and activities
+- More heterogenous functions
+- More external influences
+- More involvement in employee's personal life
+- Different emphasis on HR processes in different economies
