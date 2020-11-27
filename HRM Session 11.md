@@ -60,10 +60,18 @@
 	- Reasons:
 		- Historically never been invaded
 		- Closed culture
+	- Improvements:
+		- Adapt to local practices
+		- Tend to Polycentric
 - Polycentric
-	- Multiple Orientation
-	- 
+	- Hire best staff of host country for strategic roles
+	- US could be an example
+	- France could also be an example to some extent
 - Geocentric
-	- Geographical Orientation
+	- Hire best people from anywhere in the world
+	- Take best practices from anywhere
+	- US could be an example
 - Regioncentric
-	- Regional Orientation
+	- Concept of EU
+	- Geocentric in Nature but ltd within the region
+	- Earlier UK was following this ideology
