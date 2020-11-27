@@ -44,3 +44,26 @@
 - More external influences
 - More involvement in employee's personal life
 - Different emphasis on HR processes in different economies
+
+### Orientations to Int Orgs
+- Ethnocentric
+	- Ethnical Orientation
+	- If any company X goes anywhere in the world and tries to implement the management style of the parent country in the host country and fill strategic positions with personnel of parent country, then they are ethnocentric
+	- Parent country management style is more important
+	- Japan, Korea, Germany
+	- Pros:
+		- Belief in the experiences of the past successes of the firm
+		- Better coordination and control
+		- Control on Confidentiality
+	- Cons:
+		- Conservatism
+	- Reasons:
+		- Historically never been invaded
+		- Closed culture
+- Polycentric
+	- Multiple Orientation
+	- 
+- Geocentric
+	- Geographical Orientation
+- Regioncentric
+	- Regional Orientation
